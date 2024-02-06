@@ -4,4 +4,4 @@
 Webjudge is a examination judgement system based on web technologies, written by Vue, Python and so on.
 
 
-**Still under contribution!**
+**Still under construction!**
